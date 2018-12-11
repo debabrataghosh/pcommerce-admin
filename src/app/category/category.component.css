@@ -21,10 +21,10 @@
 }
 .category-table li p{margin: 0;}
 .category-table li a{
-    border: #ddd 1px solid;
+    border: #4fbfa8 1px solid;
     border-radius: 5px;
     padding: 6px;
-    color: #ccc;
+    color:#4fbfa8;
     font-size: 11px;
     margin-left: 6px;
     display: inline-block;

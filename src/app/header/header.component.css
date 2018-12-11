@@ -2,6 +2,7 @@
     background: #333;
     color: #fff;
     padding: 15px 0;
+    border-bottom: #F16C49 3px solid;
 }
 .header .container{
     display: flex;
